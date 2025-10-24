@@ -8,8 +8,7 @@
 
 ###
 
-
-<img align="right" height="150" src="https://i.imgur.com/3f3tR6v.gif" alt="profile picture" />
+<img align="right" height="150" src="https://i.pinimg.com/1200x/25/40/2e/25402eaadbe86e790a6574340d16565d.jpg" alt="profile picture" />
 
 ###
 
@@ -22,13 +21,19 @@
 ###
 
 <div align="left">
-
-  <a href="https://www.youtube.com/silentslt" target="_blank">
+  <a href="https://www.youtube.com/@silentslt" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube logo" />
   </a>
   <a href="https://discord.gg/YourDiscordInvite" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo" />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+
+<img src="https://raw.githubusercontent.com/Silentslt/Silentslt/output/snake.svg" alt="Snake animation" />
 
 ###
